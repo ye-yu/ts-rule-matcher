@@ -1,0 +1,23 @@
+{
+  "name": "ts-rule-matcher",
+  "version": "1.0.0",
+  "description": "Rule matcher for an object",
+  "main": "build/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ye-yu/ts-rule-matcher.git"
+  },
+  "keywords": [
+    "rule",
+    "matcher"
+  ],
+  "author": "Ye-Yu",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ye-yu/ts-rule-matcher/issues"
+  },
+  "homepage": "https://github.com/ye-yu/ts-rule-matcher#readme"
+}
